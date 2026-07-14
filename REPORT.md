@@ -270,6 +270,43 @@ This laboratory exercise provided practical experience with the WPA2 authenticat
 
 ---
 
+# Security Recommendations
+
+Based on the findings from this laboratory assessment, the following security practices are recommended to strengthen WPA2 wireless network security:
+
+- **Use Strong Passphrases**
+  - Configure long, complex passphrases containing uppercase letters, lowercase letters, numbers, and special characters.
+  - Avoid dictionary words, common phrases, personal information, and predictable password patterns.
+
+- **Upgrade to WPA3 Where Available**
+  - Deploy WPA3 security on supported wireless access points and client devices to improve resistance against offline password attacks.
+
+- **Disable WPS (Wi-Fi Protected Setup)**
+  - Turn off WPS functionality, as it may introduce additional attack vectors that can compromise wireless network security.
+
+- **Monitor Wireless Networks**
+  - Regularly monitor wireless traffic for unauthorized devices, rogue access points, and suspicious authentication or deauthentication activity.
+
+- **Keep Network Devices Updated**
+  - Ensure wireless routers and access points are running the latest firmware to protect against known vulnerabilities.
+
+- **Implement Strong Access Control**
+  - Restrict administrative access to trusted users and change default administrator credentials immediately after deployment.
+
+- **Use Network Segmentation**
+  - Separate guest devices, IoT devices, and internal systems into different network segments to reduce security risks.
+
+- **Enable Logging and Auditing**
+  - Maintain wireless event logs and periodically review authentication events to identify unusual activity.
+
+- **Perform Regular Security Assessments**
+  - Conduct periodic authorized wireless security assessments to identify weak configurations and validate security controls.
+
+- **Educate Users**
+  - Promote security awareness by encouraging users to create strong passwords, protect wireless credentials, and report suspicious network behavior.
+
+---
+
 # Conclusion
 
 The WPA2 Wireless Security Assessment Lab successfully demonstrated the complete workflow involved in assessing the security of an authorized WPA2-protected wireless network. The assessment included wireless adapter preparation, monitor mode configuration, wireless network discovery, client monitoring, handshake capture, offline password recovery using a dictionary attack, and restoration of normal networking services.
