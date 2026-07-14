@@ -140,7 +140,7 @@ The selected access point was monitored continuously.
 ### Command
 
 ```bash
-airodump-ng --bssid <Target-BSSID> --channel <Channel> -w capture wlan0
+airodump-ng --bssid <Target-BSSID> --channel <Channel> --write <file-name> wlan0
 ```
 
 **Purpose**
@@ -196,7 +196,7 @@ The captured handshake was analyzed using Aircrack-ng with a custom dictionary.
 ### Command
 
 ```bash
-aircrack-ng capture-01.cap -w wordlist.txt
+aircrack-ng file-name-01.cap -w <wordlist.txt>
 ```
 
 **Purpose**
