@@ -203,7 +203,7 @@ aircrack-ng file-name-01.cap -w <wordlist.txt>
 
 Perform an offline dictionary attack against the captured handshake to demonstrate WPA2 password recovery in an authorized environment.
 
-The correct passphrase was successfully identified from the supplied wordlist.
+The correct passphrase was successfully identified from the supplied wordlist (rockyou.txt).
 
 **Screenshot**
 
