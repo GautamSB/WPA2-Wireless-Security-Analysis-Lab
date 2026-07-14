@@ -72,9 +72,9 @@ The assessment successfully demonstrated:
 - Wireless reconnaissance techniques
 - Security assessment documentation
 
-# 📄 Detailed Report
+## 📄 Detailed Report
 
-See **REPORT.md** for the complete wireless security assessment.
+For the complete assessment, findings, and scan results, see **[REPORT.md](REPORT.md)**.
 
 ---
 
