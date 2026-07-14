@@ -63,7 +63,7 @@ Shows the **NetworkManager** service restarted after the assessment, restoring t
 4. Discover nearby wireless networks.
 5. Monitor the target access point.
 6. Generate and capture the WPA2 Four-Way Handshake.
-7. Recover the WPA2 passphrase using a dictionary attack(--wordlist rockyou.txt).
+7. Recover the WPA2 passphrase using a dictionary attack (--wordlist rockyou.txt).
 8. Restore normal network services and connectivity.
 
 ---
